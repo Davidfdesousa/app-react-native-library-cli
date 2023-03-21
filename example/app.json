@@ -1,0 +1,26 @@
+{
+  "name": "react-native-awesome-module-example",
+  "displayName": "AwesomeModule Example",
+  "expo": {
+    "name": "react-native-awesome-module-example",
+    "slug": "react-native-awesome-module-example",
+    "description": "Example app for react-native-awesome-module",
+    "privacy": "public",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.teste2"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.teste2"
+    }
+  }
+}
